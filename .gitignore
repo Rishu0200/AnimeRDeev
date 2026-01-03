@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+ANIME_RECOMMENDATION_SYSTEM.egg-info/
+*.pyc
+logs/
